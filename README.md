@@ -1,6 +1,7 @@
 # Internship Project
 ### Over the Summer of 2021, I worked as engineering intern at Ametek Brookfield in Middleborough, MA. 
-### This folder contains my final project presentation as well as video to show my final project.
+### This folder contains my final project presentation as well as video to go along with it.
+### This was a in-house transducer test fixture that corrected transducers as well as identified damaged/faulty transducers.
 
 ### Source Code for this project cannot be provided.
 
